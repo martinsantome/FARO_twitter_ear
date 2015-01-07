@@ -1,7 +1,7 @@
 Logo
 ======================
 
-[logo]: https://raw.githubusercontent.com/martinsantome/FARO_twitter_ear/5ea36a0397b03f818c61949d2f5d98ebde2c45e4/img/faro_twitter_front.png "F.A.R.O. logged on Twitter"
+![F.A.R.O. logged on Twitter](https://raw.githubusercontent.com/martinsantome/FARO_twitter_ear/5ea36a0397b03f818c61949d2f5d98ebde2c45e4/img/faro_twitter_front.png)
 
 
 [Twitter-side] Account
