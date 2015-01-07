@@ -1,3 +1,10 @@
+
+twitter.com/f_a_r_o_
+
+⊙ ɐɔıƃoloʇuo ɐıɔuǝılısǝɹ ǝp ouɐıpɐɔɹɐ oɹɔlnɟ ⊙
+
+Please, see fork to follow authory.
+
 Hacking-Hacker-Culture
 ======================
 
