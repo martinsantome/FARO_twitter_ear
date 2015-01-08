@@ -81,7 +81,10 @@ a:focus {
     /*background: rgba(255,255,255,1);*/
     text-shadow: -1px -1px 2px rgba(100,100,100,0.5);
 }
-
+h1 {
+	color:#AA00FF;}
+h2 {
+	color:#AA5F33;}
 .fallback-message {
     font-family: sans-serif;
     line-height: 1.3;
@@ -105,7 +108,7 @@ a:focus {
 
 .step {
     position: relative;
-    width: 900px;
+    width: 1000px;
     padding: 40px;
     margin: 20px auto;
 
@@ -114,7 +117,7 @@ a:focus {
     -ms-box-sizing:     border-box;
     -o-box-sizing:      border-box;
     box-sizing:         border-box;
-
+	border-style: groove; border-width: 4px;
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 48px;
     line-height: 1.5;
@@ -179,7 +182,7 @@ a:focus {
 
 #name {
     line-height: 1;
-}
+	color:red;}
 
 #title-footnote {
     font-size: 75%;
@@ -189,7 +192,7 @@ a:focus {
     margin-top: 25%;
 }
 
-#title-footer {
+.title-footer {
     font-size: 75%;
     text-align: center;
     color: rgb(90, 90, 90);
@@ -206,7 +209,7 @@ a:focus {
     /*text-align: center;*/
     font-size: 24px;
 }
-
+ 
 #pic {
     float: right;
     vertical-align: middle;
@@ -231,10 +234,13 @@ a:focus {
 #about ul {
     margin-left: 50px;
 }
-
+.subtitle {
+    text-align: center;
+    font-size: 400%;
+}
 .title {
     text-align: center;
-    font-size: 1500%;
+    font-size: 800%;
 }
 
 #hacker {
