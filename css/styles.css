@@ -118,6 +118,7 @@ a:focus {
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 48px;
     line-height: 1.5;
+	
 }
 
 .impress-enabled .step {
@@ -210,7 +211,10 @@ a:focus {
     float: right;
     vertical-align: middle;
 }
+#qualifs {
+	background-image: url("../img/shine.png");
 
+	}
 #qualifs p {
     font-weight: bold;
 }
@@ -237,7 +241,11 @@ a:focus {
     margin-left: -100px;
     margin-top: 10px;
 }
-
+.soft {
+	background-image: url("img/shine.png");
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
+}
 .overlay {
     background-color: rgba(255,255,255,0);
     position: absolute;
