@@ -21,7 +21,7 @@ X3D abilities
 ===============
 
  X3D players and plugins from [Web3D Consortium members](http://www.web3d.org/x3d/content/examples/X3dResources.html#Applications):
-```html
+
 <ul>
             <li>	
                 <a href="http://www.bitmanagement.de" target="_blank">BitManagement</a>'s 
@@ -120,4 +120,4 @@ X3D abilities
             </li>
             
         </ul>
-    ```
+
