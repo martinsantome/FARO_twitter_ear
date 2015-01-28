@@ -20,9 +20,56 @@ Talk on Hacking and Hacker Culture for AngelHack Kochi, Spring 2014 | April 17-1
 X3D abilities
 ===============
 
- X3D players and plugins from [Web3D Consortium members](http://www.web3d.org/x3d/content/examples/X3dResources.html#Applications):
+        <h2><a name="Applications">Applications, Players and Plugins for X3D / VRML Viewing</a>
+            <a href="#top">
+                <!-- width="154" height="97" -->
+               <img src="images/x3d2-s.gif" title="to top" alt="to top" align="right" border="0" height="32" width="50">
+            </a>
+        </h2>
+        
 
-<ul>
+        <p>
+            Extensible 3D (X3D) is the third-generation successor to the Virtual Reality Modeling Language (VRML), 
+            providing full backwards compatibility and adding functionally equivalent XML and compressed-binary file encodings.
+        </p>
+        <ul>
+            <li>
+                <a href="http://www.web3d.org/x3d/wiki/index.php/Player_support_for_X3D_components">Player support for X3D components</a>
+                provides a feature comparison of major X3D viewers, for each player and each X3D component.
+            </li>
+            <li>
+                    A simple example test scene is
+                    <a href="HelloWorld.x3d" target="hello">HelloWorld.x3d</a>
+                    provided in a variety of X3D encodings:
+                    <br>
+                    (<a href="HelloWorld.x3d" target="hello">.x3d&nbsp;XML</a>,
+                    <a href="HelloWorld.x3dv" target="hello">.x3dv&nbsp;ClassicVRML</a>,
+                    <a href="HelloWorld.wrl" target="hello">.wrl&nbsp;VRML97</a>,
+                    <a href="HelloWorld.html" target="hello">.html&nbsp;listing</a>,
+                    <a href="HelloWorld.xhtml" target="hello">.xhtml&nbsp;X3DOM</a>,
+                    <a href="HelloWorld.x3db" target="hello">.x3db&nbsp;compression</a>,
+                    <a href="HelloWorldCanonical.xml" target="hello">C14N&nbsp;canonicalization</a>, and
+                    <a href="HelloWorld.tall.png" target="hello">.png&nbsp;image</a>)
+            </li>
+            <li>
+                    The 
+                    <a href="HelloWorld.x3d" target="hello">HelloWorld.x3d</a>
+                    scene is a simple authoring example that illustrates the minimalist X3D Interchange profile.
+                    Also available: internationalized 
+                    <a href="http://x3dgraphics.com/examples/X3dForAdvancedModeling/#HelloWorldScenes" target="hello">Hello World Scenes</a>.
+            </li>
+            <li>
+                    Please install one of the following X3D players
+                    to view X3D/VRML scenes and browse these examples.
+            </li>
+        </ul>
+        
+        <p>
+            <a name="plugin">X3D players and plugins</a> 
+            from <a href="http://www.web3d.org/membership" target="_blank">Web3D Consortium members</a>:
+        </p>
+        
+        <ul>
             <li>	
                 <a href="http://www.bitmanagement.de" target="_blank">BitManagement</a>'s 
                 <a href="http://www.bitmanagement.de/en/products/interactive-3d-clients/bs-contact" target="_blank">BS Contact</a>
@@ -120,4 +167,3 @@ X3D abilities
             </li>
             
         </ul>
-
