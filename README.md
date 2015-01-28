@@ -94,8 +94,7 @@ X3D abilities
           (Linux MacOSX Windows)
           (<a href="http://www.h3dapi.org/modules/newbb" target="_blank">forum</a>).
           <ul>
-              <li>                
-                  Includes
+              <li>Includes
                   haptics support,
                   <a href="http://www.web3d.org/documents/specifications/19775-1/V3.3/Part01/components/rigid_physics.html" target="_blank">Rigid Body Physics component</a>,
                   plus 
