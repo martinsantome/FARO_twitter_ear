@@ -62,21 +62,18 @@ X3D abilities
   </p>
 
   <ul>
-      <li>  
-          <a href="http://www.bitmanagement.de" target="_blank">BitManagement</a>'s 
+      <li><a href="http://www.bitmanagement.de" target="_blank">BitManagement</a>'s 
           <a href="http://www.bitmanagement.de/en/products/interactive-3d-clients/bs-contact" target="_blank">BS Contact</a>
           and
           <a href="http://www.bitmanagement.de/en/products/interactive-3d-clients/bs-contact-geo" target="_blank">BS Contact Geo</a>
           X3D/VRML97 plugins for Internet Explorer (Linux MacOSX Windows)
          (<a href="http://www.bitmanagement.de/en/contact" target="_blank">support</a>).
       </li>
-      <li>  
-          <a href="http://instantreality.org" target="_blank">InstantReality</a> is a high-performance X3D player and Mixed Reality (MR) system by Fraunhofer IGD 
+      <li><a href="http://instantreality.org" target="_blank">InstantReality</a> is a high-performance X3D player and Mixed Reality (MR) system by Fraunhofer IGD 
           (Linux MacOSX Windows)
          (<a href="http://forum.instantreality.org" target="_blank">forum</a>).
       </li>
-      <li>  
-          <i>Special mention.</i>
+      <li><i>Special mention.</i>
           <a href="http://x3dom.org" target="_blank">X3DOM</a> (pronounced "X-Freedom")
           implements a high-performance X3D player in open-source Javascript.
           Authors can publish X3D source within an HTML5 page that works with Web browsers <em>without</em> prior plugin installation
@@ -84,16 +81,14 @@ X3D abilities
           and
           <a href="https://sourceforge.net/p/x3dom/discussion" target="_blank">forum</a>).
       </li>
-      <li>
-          <a href="http://freewrl.sourceforge.net" target="_blank">FreeWRL/FreeX3D</a> X3D/VRML browser (open-source&nbsp;C).
+      <li><a href="http://freewrl.sourceforge.net" target="_blank">FreeWRL/FreeX3D</a> X3D/VRML browser (open-source&nbsp;C).
           (Linux MacOSX Windows)
           (<a href="http://freewrl.sourceforge.net/contact.html" target="_blank">contact</a>,
           (<a href="https://sourceforge.net/p/freewrl/bugs" target="_blank">bug&nbsp;tickets</a>).
           Also described on 
           <a href="http://en.wikipedia.org/wiki/FreeWRL" target="_blank">Wikipedia</a>.
       </li>
-      <li>
-          <a href="http://www.sensegraphics.com/index.php?option=com_content&amp;task=view&amp;id=148&amp;Itemid=66" target="_blank">Sensegraphics H3DAPI</a>--&gt;
+      <li><a href="http://www.sensegraphics.com/index.php?option=com_content&amp;task=view&amp;id=148&amp;Itemid=66" target="_blank">Sensegraphics H3DAPI</a>--&gt;
           <a href="http://www.h3dapi.org" target="_blank">H3D</a>
           is an open-source C++&nbsp;API and X3D player
           (Linux MacOSX Windows)
@@ -112,8 +107,7 @@ X3D abilities
               </li>
           </ul>
       </li>
-      <li>
-          <a href="https://savage.nps.edu/Savage/developers.html#Xj3D" target="_blank">Xj3D</a>
+      <li><a href="https://savage.nps.edu/Savage/developers.html#Xj3D" target="_blank">Xj3D</a>
           is an open-source Java viewer and application codebase for X3D graphics scenes.
           <ul>
               <li>
