@@ -19,8 +19,8 @@ Talk on Hacking and Hacker Culture for AngelHack Kochi, Spring 2014 | April 17-1
 
 X3D abilities
 ===============
-<h2><a name="Applications">Applications, Players and Plugins for X3D / VRML Viewing</a>
-   <p>
+<h2><a name="Applications">Applications, Players and Plugins for X3D / VRML Viewing</a></h2>  
+ <p>
       Extensible 3D (X3D) is the third-generation successor to the Virtual Reality Modeling Language (VRML), 
       providing full backwards compatibility and adding functionally equivalent XML and compressed-binary file encodings.
   </p>
@@ -75,7 +75,6 @@ X3D abilities
           (Linux MacOSX Windows)
          (<a href="http://forum.instantreality.org" target="_blank">forum</a>).
       </li>
-
       <li>  
           <i>Special mention.</i>
           <a href="http://x3dom.org" target="_blank">X3DOM</a> (pronounced "X-Freedom")
@@ -85,7 +84,6 @@ X3D abilities
           and
           <a href="https://sourceforge.net/p/x3dom/discussion" target="_blank">forum</a>).
       </li>
-
       <li>
           <!-- http://www.crc.ca/FreeWRL -->
           <a href="http://freewrl.sourceforge.net" target="_blank">FreeWRL/FreeX3D</a> X3D/VRML browser (open-source&nbsp;C).
@@ -96,7 +94,7 @@ X3D abilities
           <a href="http://en.wikipedia.org/wiki/FreeWRL" target="_blank">Wikipedia</a>.
       </li>
       <li>
-          <a href="http://www.sensegraphics.com/index.php?option=com_content&task=view&id=148&Itemid=66" target="_blank">Sensegraphics H3DAPI</a>-->
+          <a href="http://www.sensegraphics.com/index.php?option=com_content&amp;task=view&amp;id=148&amp;Itemid=66" target="_blank">Sensegraphics H3DAPI</a>--&gt;
           <a href="http://www.h3dapi.org" target="_blank">H3D</a>
           is an open-source C++&nbsp;API and X3D player
           (Linux MacOSX Windows)
@@ -115,7 +113,6 @@ X3D abilities
               </li>
           </ul>
       </li>
-
       <li>
           <a href="https://savage.nps.edu/Savage/developers.html#Xj3D" target="_blank">Xj3D</a>
           is an open-source Java viewer and application codebase for X3D graphics scenes.
@@ -132,7 +129,6 @@ X3D abilities
                   <a href="https://sourceforge.net/projects/xj3d">Xj3D Sourceforge</a>
                   project.
               </li>
-              <!--
               <li>
                  (<a href="http://bugzilla.xj3d.org" target="_blank">bugtracker</a>,
                   <a href="mailto:source@web3D.org?subjectXj3D%20support%20request">mailing list</a>,
@@ -146,12 +142,9 @@ X3D abilities
                   and browser-launchable
                   <a href="http://downloads.xj3d.org/webstart" target="_blank">Java&nbsp;WebStart</a> version.
               </li>
-              -->
           </ul>
       </li>
-
       <li>
           <a href="http://www.geovrml.org" target="_blank">GeoVrml Run-Time</a> was originally used for VRML97 GeoVrml examples.
       </li>
-
   </ul>
