@@ -85,7 +85,6 @@ X3D abilities
           <a href="https://sourceforge.net/p/x3dom/discussion" target="_blank">forum</a>).
       </li>
       <li>
-          <!-- http://www.crc.ca/FreeWRL -->
           <a href="http://freewrl.sourceforge.net" target="_blank">FreeWRL/FreeX3D</a> X3D/VRML browser (open-source&nbsp;C).
           (Linux MacOSX Windows)
           (<a href="http://freewrl.sourceforge.net/contact.html" target="_blank">contact</a>,
