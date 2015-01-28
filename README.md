@@ -16,3 +16,108 @@ Please, see fork to follow authory.
 ======================
 
 Talk on Hacking and Hacker Culture for AngelHack Kochi, Spring 2014 | April 17-18, 2014 | Made with impressJS by @bartaz
+
+X3D abilities
+===============
+
+ X3D players and plugins from [Web3D Consortium members](http://www.web3d.org/x3d/content/examples/X3dResources.html#Applications):
+```html
+<ul>
+            <li>	
+                <a href="http://www.bitmanagement.de" target="_blank">BitManagement</a>'s 
+                <a href="http://www.bitmanagement.de/en/products/interactive-3d-clients/bs-contact" target="_blank">BS Contact</a>
+                and
+                <a href="http://www.bitmanagement.de/en/products/interactive-3d-clients/bs-contact-geo" target="_blank">BS Contact Geo</a>
+                X3D/VRML97 plugins for Internet Explorer (Linux MacOSX Windows)
+               (<a href="http://www.bitmanagement.de/en/contact" target="_blank">support</a>).
+            </li>
+            <li>	
+                <a href="http://instantreality.org" target="_blank">InstantReality</a> is a high-performance X3D player and Mixed Reality (MR) system by Fraunhofer IGD 
+                (Linux MacOSX Windows)
+               (<a href="http://forum.instantreality.org" target="_blank">forum</a>).
+            </li>
+            
+            <li>	
+                <i>Special mention.</i>
+                <a href="http://x3dom.org" target="_blank">X3DOM</a> (pronounced "X-Freedom")
+                implements a high-performance X3D player in open-source Javascript.
+                Authors can publish X3D source within an HTML5 page that works with Web browsers <em>without</em> prior plugin installation
+               (<a href="http://www.x3dom.org/?page_id=3" target="_blank">get&nbsp;involved</a>
+                and
+                <a href="https://sourceforge.net/p/x3dom/discussion" target="_blank">forum</a>).
+            </li>
+           
+            <li>
+                <!-- http://www.crc.ca/FreeWRL -->
+                <a href="http://freewrl.sourceforge.net" target="_blank">FreeWRL/FreeX3D</a> X3D/VRML browser (open-source&nbsp;C).
+                (Linux MacOSX Windows)
+                (<a href="http://freewrl.sourceforge.net/contact.html" target="_blank">contact</a>,
+                (<a href="https://sourceforge.net/p/freewrl/bugs" target="_blank">bug&nbsp;tickets</a>).
+                Also described on 
+                <a href="http://en.wikipedia.org/wiki/FreeWRL" target="_blank">Wikipedia</a>.
+            </li>
+
+            <li>
+                <!-- original press release
+                <a href="http://www.sensegraphics.com/index.php?option=com_content&task=view&id=148&Itemid=66" target="_blank">Sensegraphics H3DAPI</a>-->
+                <a href="http://www.h3dapi.org" target="_blank">H3D</a>
+                is an open-source C++&nbsp;API and X3D player
+                (Linux MacOSX Windows)
+                (<a href="http://www.h3dapi.org/modules/newbb" target="_blank">forum</a>).
+                <ul>
+                    <li>                
+                        Includes
+                        haptics support,
+                        <a href="http://www.web3d.org/documents/specifications/19775-1/V3.3/Part01/components/rigid_physics.html" target="_blank">Rigid Body Physics component</a>,
+                        plus 
+                        3D texturing 
+                        and the
+                        <a href="http://www.web3d.org/documents/specifications/19775-1/V3.3/Part01/components/volume.html" target="_blank">Volume Visualization component</a>
+                        for the 
+                        <a href="http://www.web3d.org/realtime-3d/working-groups/medx3d" target="_blank">Medical Working Group</a>.
+                    </li>
+                </ul>
+            </li>
+            
+            <li>
+                <a href="https://savage.nps.edu/Savage/developers.html#Xj3D" target="_blank">Xj3D</a>
+                is an open-source Java viewer and application codebase for X3D graphics scenes.
+                
+
+                <ul>
+                    <li>
+                          <i>New.</i> The
+                          <a href="http://web3d.org/wiki/index.php/Xj3D_Evolution">Xj3D&nbsp;Evolution</a>
+                          strategy describes how            
+                          Web3D working-group stakeholders are considering and implementing further improvements to Xj3D.
+                    </li>
+                    <li>
+                        <a href="https://savage.nps.edu/Savage/developers.html#Xj3D" target="_blank">NPS source branch for Xj3D viewer</a>
+                        describes current details while migrating everything to the
+                        <a href="https://sourceforge.net/projects/xj3d">Xj3D Sourceforge</a>
+                        project.
+                    </li>
+                    <!--
+                    <li>
+                       (<a href="http://bugzilla.xj3d.org" target="_blank">bugtracker</a>,
+                        <a href="mailto:source@web3D.org?subjectXj3D%20support%20request">mailing list</a>,
+                        <a href="http://web3d.org/mailman/listinfo/source_web3d.org" target="_blank">subscribe</a>)
+                    </li>
+                    <li>
+                        Original
+                        <a href="http://www.xj3d.org" target="_blank">Xj3D.org</a>
+                        distribution includes
+                        <a href="http://www.xj3d.org/snapshots.html" target="_blank">developer page</a>,
+                        and browser-launchable
+                        <a href="http://downloads.xj3d.org/webstart" target="_blank">Java&nbsp;WebStart</a> version.
+                    </li>
+                    -->
+                </ul>
+            </li>
+            
+            <li>
+                <a href="http://www.geovrml.org" target="_blank">GeoVrml Run-Time</a> was originally used for VRML97 GeoVrml examples.
+            </li>
+            
+        </ul>
+    ```
