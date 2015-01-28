@@ -26,9 +26,7 @@ X3D abilities
                <img src="images/x3d2-s.gif" title="to top" alt="to top" align="right" border="0" height="32" width="50">
             </a>
         </h2>
-        
-
-        <p>
+         <p>
             Extensible 3D (X3D) is the third-generation successor to the Virtual Reality Modeling Language (VRML), 
             providing full backwards compatibility and adding functionally equivalent XML and compressed-binary file encodings.
         </p>
@@ -103,9 +101,7 @@ X3D abilities
                 Also described on 
                 <a href="http://en.wikipedia.org/wiki/FreeWRL" target="_blank">Wikipedia</a>.
             </li>
-
             <li>
-                <!-- original press release
                 <a href="http://www.sensegraphics.com/index.php?option=com_content&task=view&id=148&Itemid=66" target="_blank">Sensegraphics H3DAPI</a>-->
                 <a href="http://www.h3dapi.org" target="_blank">H3D</a>
                 is an open-source C++&nbsp;API and X3D player
@@ -129,8 +125,6 @@ X3D abilities
             <li>
                 <a href="https://savage.nps.edu/Savage/developers.html#Xj3D" target="_blank">Xj3D</a>
                 is an open-source Java viewer and application codebase for X3D graphics scenes.
-                
-
                 <ul>
                     <li>
                           <i>New.</i> The
