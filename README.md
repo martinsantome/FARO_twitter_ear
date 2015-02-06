@@ -141,6 +141,6 @@ X3D abilities
       </li>
   </ul>
   
-  [License]
-  ============================
+[License]
+============================
   Licencia CC By SA NC 4.0: Puedes usar, copiar, consumir los contenidos siempre que menciones al autor y compartas cualquier contenido derivado con la misma licencia. En ningún caso si sacas un beneficio económico de ello. Para cualquier otro uso, necesitas un permiso explícito. Copyleft. Todos los errores reservados. Los derechos pertenecen y están registrados en SafeCreative a nombre (apócrifo) del compadre don Antonio Machado, algunos derechos reservados. 
