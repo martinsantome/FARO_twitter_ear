@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<!-- Estilos -->
+		<link rel="stylesheet" type="text/css" href="samples/sample1/css/estilos.css">
+		<link rel="stylesheet" href="samples/sample1/css/jquery-ui.css">
+
+		<!-- Javascript de terceros -->
+		<script type="text/javascript" src="samples/sample1/js/lib/d3.js" charset="utf-8"></script>
+		<script src="samples/sample1/js/lib/jquery-ui.js"></script>
+
+
+		<!-- Javascript nuestro -->
+		<script type="text/javascript" src="samples/sample1/js/cargador.js?1.0.0"></script>
+		<script type="text/javascript" src="samples/sample1/js/json.js?1.0.0"></script>
+		<script type="text/javascript" src="samples/sample1/js/layout.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="samples/sample1/js/arbol.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="samples/sample1/js/filtros.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="samples/sample1/js/pop_up.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="samples/sample1/js/herramientas.js?1.0.0" charset="utf-8"></script>
+
+		<!-- favicon -->
+		<link rel="shortcut icon" href="favicon.ico">
+	</head>
+
+	<body>
+		<div id="div_json"></div>
+		<hr>
+		<div id="div_filtros"></div>
+		<hr>
+		<div id="div_layout"></div>
+		<div id="div_pop_up"></div>
+		<script>
+
+			var miCargador = new cargador( "samples/sample1/", "div_json", "div_filtros", "div_layout", "div_pop_up");
+
+			miCargador.init();
+
+		</script>
+
+	</body>
+
+</html>
