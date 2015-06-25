@@ -1,0 +1,100 @@
+/*  Filtros */
+#div_filtro_actividades, #div_filtro_dias, #div_filtro_familias, #div_filtro_edad   {
+	display:inline-block;
+	box-shadow:4px 4px 1px #404000;
+	background: #FFFFF2;
+	padding: 25px;
+	margin-left: 25px;
+	font-size:70%;
+}
+
+#div_filtro_familias div  {
+	display:inline-block;
+}
+
+/*  Filtro familia */
+.familia  { 
+	display:inline-block;
+	text-align:center;
+}
+.familia  img{ 
+	width: 75px;
+	cursor:pointer;
+}
+.familia span { 
+	display: table; 
+	color: green;
+	margin: 0 auto;
+}
+
+/**/
+.node circle {
+  cursor: pointer;
+  stroke: #3182bd;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+.node image {
+	cursor:pointer;
+	opacity: 0.6;
+}
+line.link {
+  fill: none;
+  stroke: #9ecae1;
+  stroke-width: 1.5px;
+}
+
+
+/* */
+.pop_up {
+	color: #456789;
+
+	width:450px;
+	max-width:480px;
+	padding-top: 2px;
+	padding-bottom: 15px;
+	text-align: center;
+	background: white;
+	position:absolute;
+	font-size: 70%;
+}
+.pop_up table{
+	max-width:95%;
+}
+.pop_up tr{
+	background: white;
+
+}
+.pop_up  thead{
+	width:95%;
+	height:10px;
+	background: #CACAD9;
+    box-shadow:1px 1px 1px gray;
+	padding-bottom: 15px;
+}
+.marcado {
+	background-image: url(../uimg/tick.jpg); /* forward slash for the path */
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-width: 20px;
+	max-width: 20px;
+}
+.oculto {
+	display: none;
+	visibility: hidden;
+}
+.persona_hover .marcado {
+	background-image: url(../uimg/tick.jpg); /* forward slash for the path */
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+/**/
